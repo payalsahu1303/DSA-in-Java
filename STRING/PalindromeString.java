@@ -10,12 +10,11 @@ public class PalindromeString {
     }
 
     public static void main(String[] args) {
-        PalindromeString obj1 = new PalindromeString();
-        PalindromeString obj2 = new PalindromeString();
+        PalindromeString obj = new PalindromeString();
         String s1 = "madam";
         String s2 = "hello";
-        System.out.println(obj1.isPalindrome(s1));
-        System.out.println(obj2.isPalindrome(s2));
+        System.out.println(obj.isPalindrome(s1));
+        System.out.println(obj.isPalindrome(s2));
     }
 }
 
