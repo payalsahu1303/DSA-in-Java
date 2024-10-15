@@ -21,3 +21,7 @@ public class CountVowelsAndConsonants {
         obj.count(str);
     }
 }
+
+// The time complexity of the code is O(n) due to the single loop iterating
+// through the string of length 'n'. The space complexity is O(1) since
+// only a constant amount of extra space is used for variables.
