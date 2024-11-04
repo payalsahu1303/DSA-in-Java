@@ -37,4 +37,4 @@ public class ModularNode {
   }
 }
 
-// The code has a time complexity of O(n), iterating through the array once. The space complexity is O(1), using minimal auxiliary spaceThe time complexity is **O(n) because it iterates through each node once. The space complexity is O(1) since it only uses a constant amount of extra space for variables.
+// The code has a time complexity of O(n), iterating through the array once. The space complexity is O(1), using minimal auxiliary spaceThe time complexity is O(n) because it iterates through each node once. The space complexity is O(1) since it only uses a constant amount of extra space for variables.
